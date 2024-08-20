@@ -11,6 +11,7 @@
   <h3>Skill</h3>
   <img alt="React" src="https://img.shields.io/badge/React-097EA5?style=flat&logo=react&logoColor=white">
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7E018?style=flat&logo=javascript&logoColor=black">
+  <img alt="Typescript" src="https://img.shields.io/badge/Typescript-2E75C0?style=flat&logo=typescript&logoColor=white">
 
   <h3>About me</h3>
   <a href="https://yeondev.notion.site/Portfolio-69d344f47eee4f878be2f61b1d59a96b?pvs=4">Portfolio</a> &nbsp;&nbsp;&nbsp;
